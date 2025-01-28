@@ -1,0 +1,21 @@
+1. Responsible for providing 24 X 7 critical production supports to 500 + Production, development and clustered servers.
+
+2.Daily Admin activities like controlling the user privileges, roles, monitoring the security and Audit issues.
+
+3. Configured database mail, setup alert, created linked server.
+
+4.Implemented daily reports to highlight Backup failures, Disk space issues and Job failures.
+
+Extended database high availability by 35% using SQL Server's AlwaysOn feature.
+
+Resolved 50+ technical issues, resulting in 20% reduced customer complaints.
+
+
+AWS
+
+Improved system performance by 70% by designing and implementing Elastic Load Balancing and Auto Scaling.
+Implemented and monitored backup, recovery, and configuration management using AWS native services.  
+Improved system uptime by 25% via sophisticated monitoring based on AWS CloudWatch and CloudTrail services.
+Spearheaded the use of AWS RDS for database management which improved efficiency by 60%. 
+Improved back-end processing speeds by 45% with regular performance tuning and maintenance.
+Implemented a comprehensive CI/CD pipeline using AWS CodePipeline and CodeBuild, decreasing deployment time by 50% and enhancing release reliability.
